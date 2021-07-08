@@ -19,3 +19,9 @@ Operator Precedence
 Comparison Operators
 Logical operators
 Conditional statements
+
+Day 3: Learning Loops 
+
+For Loop
+While Loop
+* Coding
