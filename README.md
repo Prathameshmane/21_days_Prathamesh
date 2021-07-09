@@ -24,4 +24,8 @@ Day 3: Learning Loops
 
 For Loop
 While Loop
-* Coding
+
+Day 4: Learning Some Other basics of python
+Lists
+Methods
+Tuples
