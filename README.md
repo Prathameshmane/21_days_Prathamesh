@@ -29,3 +29,7 @@ Day 4: Learning Some Other basics of python
 Lists
 Methods
 Tuples
+
+Day 5: Learning about Jupyter Notebook
+Jupyter Notebook
+Shortcut Keys for Jupyter Notebook
