@@ -33,3 +33,6 @@ Tuples
 Day 5: Learning about Jupyter Notebook
 Jupyter Notebook
 Shortcut Keys for Jupyter Notebook
+
+Day 6: Learn about panda library
+Performing excercises in pandas
