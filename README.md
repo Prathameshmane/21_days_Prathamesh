@@ -5,6 +5,7 @@ I love Programming. |
 Beginner I'll first learn Python |
 
 Day 1: Learning About GitHub
+
 What is Github
 How to Create Repository.
 
@@ -26,13 +27,20 @@ For Loop
 While Loop
 
 Day 4: Learning Some Other basics of python
+
 Lists
 Methods
 Tuples
 
 Day 5: Learning about Jupyter Notebook
+
 Jupyter Notebook
 Shortcut Keys for Jupyter Notebook
 
 Day 6: Learn about panda library
+
 Performing excercises in pandas
+
+Day 7: Excercices
+
+Solving some problems with python.
