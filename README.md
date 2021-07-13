@@ -44,3 +44,5 @@ Performing excercises in pandas
 Day 7: Excercices
 
 Solving some problems with python.
+
+Day 8: Solving problems Using pandas.
