@@ -50,3 +50,5 @@ Day 8: Solving problems Using pandas.
 Day 9: Learning about Numpy arrays.
 
 Day 10: Solving problems and Excercises using Numpy.
+
+Day 11: Solving Problems and Excercises using Numpy.
